@@ -18,5 +18,6 @@ Develop a modern data warehouse using MySQL to consolidate sales data, enabling 
 - Scope: Focus on the latest dataset only: historization of data is not required.
 
 
-**About Me**
+### About Me
+
 Hi there! I'm Prajwal Dandale, with 5+ years of experience in the IT industry. I'm passionate about building scalable and efficient data solutions using SQL, PySpark, Python, AWS, Azure, and Databricks.
